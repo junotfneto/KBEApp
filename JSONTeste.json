@@ -1,5 +1,5 @@
 [
   ["ID","NOME","DATA","LOCAL", "HORARIO", "VAGASGRUPO", "VAGASSOLO", "LINK_INSCRICAO", "LINK_INGRESSOS", "LINK_FOTO", "TEXTO_INSCRICOES", "DESCRICAO", "STATUS" ],
-  ["001","IX Encontro Kpopper","19/01/2019","Praca Loteamento Aquarius", "13:00 a 18:00", "7", "0", "ENCERRADO", "GRATUITO", "https://i.imgur.com/WmySo5u.jpg", "Uma musica por grupo", "Encontro de Kpop", "PROXIMO" ],
+  ["001","X Encontro Kpopper","19/01/2019","Praca Loteamento Aquarius", "13:00 a 18:00", "7", "0", "https://goo.gl/forms/gAzCZw48ItEkQeUd2", "GRATUITO", "https://i.imgur.com/WmySo5u.jpg", "Uma musica por grupo", "Encontro de Kpop", "PROXIMO" ],
   ["002","Kpop Meeting Bahia 2019","EM BREVE","EM BREVE", "EM BREVE", "0", "0", "ENCERRADO", "GRATUITO", "#", "EM BREVE", "Festival de Kpop", "EMBREVE" ]
 ]
