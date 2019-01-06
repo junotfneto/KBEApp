@@ -1,5 +1,6 @@
 [
   ["ID","NOME","DATA","LOCAL", "HORARIO", "VAGASGRUPO", "VAGASSOLO", "LINK_INSCRICAO", "LINK_INGRESSOS", "LINK_FOTO", "TEXTO_INSCRICOES", "DESCRICAO", "STATUS" ],
-  ["001","X Encontro Kpopper","19/01/2019","Praca Loteamento Aquarius", "13:00 a 18:00", "7", "0", "https://goo.gl/forms/gAzCZw48ItEkQeUd2", "GRATUITO", "https://i.imgur.com/WmySo5u.jpg", "Uma musica por grupo", "Encontro de Kpop", "PROXIMO" ],
-  ["002","Kpop Meeting Bahia 2019","EM BREVE","EM BREVE", "EM BREVE", "0", "0", "ENCERRADO", "GRATUITO", "#", "EM BREVE", "Festival de Kpop", "EMBREVE" ]
+  ["001","X Encontro Kpopper","19/01/2019","Praca Loteamento Aquarius, Pituba", "13:00 a 18:00", "7", "0", "https://goo.gl/forms/gAzCZw48ItEkQeUd2", "GRATUITO", "https://i.imgur.com/WmySo5u.jpg", "Uma musica por grupo", "Venha se divertir no X Encontro Kpopper! Vai ter música, dança e muita diversão!", "PROXIMO" ],
+  ["002","Kpop Meeting Bahia 2019","EM BREVE","EM BREVE", "EM BREVE", "0", "0", "ENCERRADO", "GRATUITO", "#", "EM BREVE", "Festival de Kpop", "EMBREVE" ],
+  ["003","Kpop Colorful Day 2018","20/10/2018","Praça Ana Lucia Magalhaes, Itaigara", "13:00 a 18:00", "0", "0", "ENCERRADO", "GRATUITO", "#", "Inscrições para grupos cover encerradas.", "O Kpop Colorful Day é um encontro de Kpop com várias atividades super divertidas!", "PASSADO" ],
 ]
